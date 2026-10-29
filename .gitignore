@@ -1,0 +1,4 @@
+venv
+.env
+# Tokens capturados durante el laboratorio
+token.txt
